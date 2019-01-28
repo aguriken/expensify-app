@@ -3,3 +3,9 @@
 ```
 yarn run dev-server
 ```
+
+### How to test application
+
+```
+yarn test --watch
+```
